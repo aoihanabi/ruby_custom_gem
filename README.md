@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+AoiViewTool::Renderer.copyright 'Ann Doe', 'All rights reserved'
+```
 
 ## Development
 
